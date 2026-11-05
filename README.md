@@ -119,24 +119,23 @@ An interactive dashboard for monitoring cryptocurrency markets, analyzing histor
 
 <!-- ================= GITHUB STATS ================= -->
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahAdnan05&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAdnan05&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" />
 </p>
-
-<br/>
-
-<!-- ================= CONTRIBUTIONS ================= -->
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahAdnan05&theme=github-compact&hide_border=true" width="95%" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
 </p>
 
-<br/>
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" />
+</p>
 
 <!-- ================= CONNECT ================= -->
 
